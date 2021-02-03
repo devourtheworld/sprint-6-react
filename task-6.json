@@ -1,0 +1,32 @@
+{
+    "rules":{
+        "curly": "error",
+        "eqeqeq": "error",
+        "indent": ["error", 4],
+        "no-cond-assign": "error",
+        "no-console": "error",
+        "no-else-return":"error",
+        "no-extra-semi":"error",
+        "no-inline-comments":"error",
+        "no-var":"error",
+        "prefer-const":"error",
+        "space-infix-ops":"error",
+        "quotes":["error", "single"]
+    }
+}
+
+{
+    "rules":{
+        "indent": ["error", 4],
+        "space-infix-ops": ["error", {"int32Hint":false}],
+        "quotes": ["error", "single"],
+        "no-var": 2,
+        "prefer-const": "error",
+        "eqeqeq":"error",
+        "no-console":"error",
+        "no-cond-assign":"error",
+        "no-extra-semi":"error",
+        "no-inline-comments":"error",
+        "no-unreachable":"error"
+    }
+}
